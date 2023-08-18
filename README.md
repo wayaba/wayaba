@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ## ¡Hola 👋🏽, Soy Pablo¡
 
 - 📖 Ingeniero en Informática (UNLAM). **FullStack developer**
-- 🔭 Actualmente trabajo desarrollando en Java (Backend) y ReactJs (Frontend).
-
+- 🔭 Actualmente realizo trabajos freelance con Express (Backend) y ReactJs (Frontend).
 
 
 ## Contactame
