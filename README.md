@@ -14,17 +14,19 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hola 👋, soy Pablo</h1>
-<h3 align="center">Full stack developer</h3>
-<p>Ingeniero en Informática (UNLAM). 🔭 Actualmente trabajo desarrollando en Java (Backend) y ReactJs (Frontend).</p>
+## ¡Hola 👋🏽, Soy Pablo¡
 
-- 🇦🇷 Argentina
+- 📖 Ingeniero en Informática (UNLAM). **FullStack developer**
+- 🔭 Actualmente trabajo desarrollando en Java (Backend) y ReactJs (Frontend).
+
+
+
+## Contactame
 
 - 📫 Cómo contactarme: **pabloj.pedraza@gmail.com**
+- ⚡ Podés visitar mi porfolio: [link](https://portfolio-ppedraza.vercel.app/)
 
-- ⚡ Podés visitar mi porfolio: [link] (https://portfolio-ppedraza.vercel.app/)
 
-<h3 align="left">Tecnologías:</h3>
 ## Tecnologías
 
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
