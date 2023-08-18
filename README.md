@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## ¡Hola 👋🏽, Soy Pablo¡
 
-- 📖 Ingeniero en Informática (UNLAM - Argentina 🇦🇷). **FullStack developer**
+- 📖 Ingeniero en Informática (UNLAM 🇦🇷). **FullStack developer**
 - 🔭 Actualmente realizo trabajos freelance con Express (Backend) y ReactJs (Frontend).
 
 
