@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ## Contactame
 
 - 📫 Cómo contactarme: **pabloj.pedraza@gmail.com**
-- ⚡ Podés visitar mi porfolio: [link](https://portfolio-ppedraza.vercel.app/)
+- ⚡ Podés visitar mi porfolio: [link](https://porfolio-pedraza-simple.vercel.app/)
+- ⚡ Visit my portfolio: [link](https://porfolio-pedraza-simple.vercel.app/en)
 
 
 ## Tecnologías
