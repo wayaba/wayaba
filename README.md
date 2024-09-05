@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 ## ¡Hola 👋🏽, Soy Pablo¡
 
 - 📖 Ingeniero en Informática (UNLAM 🇦🇷). **FullStack developer**
-- 🔭 Actualmente realizo trabajos freelance con Express (Backend) y ReactJs (Frontend).
+- 🔭 En backend uso Java o Node.
+- 👨‍💻 En frontend uso React o Vue.
 
 
 ## Contactame
 
 - 📫 Cómo contactarme: **pabloj.pedraza@gmail.com**
-- ⚡ Podés visitar mi porfolio: [link](https://porfolio-pedraza-simple.vercel.app/)
-- ⚡ Visit my portfolio: [link](https://porfolio-pedraza-simple.vercel.app/en)
+- ⚡ Podés visitar mi CV: [link](https://cv-pedraza.vercel.app/)
 
 
 ## Tecnologías
